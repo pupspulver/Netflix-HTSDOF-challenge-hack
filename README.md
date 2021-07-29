@@ -1,2 +1,2 @@
-# Netflix-HTSDOF-minigame-hack
-A hack for howtohackmoritzonlinefast.com Ntflix challenge
+# Netflix HTSDOF challenge Hack
+A hack for howtohackmoritzonlinefast.com Netflix challenge
