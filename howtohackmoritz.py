@@ -6,6 +6,7 @@ import time
 headers = {
     "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G970F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36 OPR/63.0.3216.58473",
     "Accept": "application/json, text/plain, */*",
+    "Alt-Used": "www.howtohackmoritzonlinefast.com"
 }
 
 class hackmoritz():
