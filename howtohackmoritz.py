@@ -23,12 +23,12 @@ class hackmoritz():
 
     dataCom = {
         "game-id": gameID,
-        "first-name": "pups",
-        "last-name": "pulver",
+        "first-name": "your",
+        "last-name": "name",
         "age-agreement": "true",
         "country": "true",
-        "email": "pupspulver05@gmail.com",
-        "answer": "so hab ichs gemacht ;) https://bit.ly/3wXTz4b",
+        "email": "your@email.com",
+        "answer": "drugflix",
         "terms-agreement": "true"
     }
 
