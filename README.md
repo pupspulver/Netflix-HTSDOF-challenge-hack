@@ -13,7 +13,7 @@ INFO: The challenge is over, but the game is still online.
 Upon successfully completing all 4 challenges, the player submits its time, name and email and is asked to answer a creative question.
 
 ## How does the hack work?
-The program makes requests directly to the game API endpoint (https://www.howtohackmoritzonlinefast.com/api) to solve the 4 challenges directly. The server logs the time passed between the Begin and End challenge requests. When all 4 challenges are solved, the program send the player's data to submit the game results (the server returns the total game score). 
+The program makes requests directly to the game API endpoint (https://www.howtohackmoritzonlinefast.com/api) to solve the 4 challenges directly. The server logs the time passed between the Begin and End challenge requests. When all 4 challenges are solved, the program sends the player's data to submit the game results (the server returns the total game score). 
 
 ## Getting Started
 It's easy, just run `howtohackmoritz.py`.  
