@@ -34,6 +34,7 @@ class hackmoritz():
 
     def dataRes(self, unix):
         """
+        :param self: class variables
         :param unix: UNIX zeit
         :return: challenge result data
         """
