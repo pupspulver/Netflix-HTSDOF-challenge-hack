@@ -11,8 +11,8 @@ headers = {
 
 class hackmoritz():
     """
-    Hi NetFlix, bitte macht diese challenges auch so dass keiner cheaten kann :)
-    HackMoritz class, neues game starten und challenges solven.
+    Hi NetFlix, bitte macht diese Challenges auch so dass keiner cheaten kann :)
+    HackMoritz class, neues Game starten und Challenges solven.
     """
     apiPath = "https://www.howtohackmoritzonlinefast.com/api"
     gameID = json.loads(requests.post(f"{apiPath}/game/start", headers=headers).text)["game-id"] # Start a game, get its ID
@@ -88,7 +88,7 @@ class hackmoritz():
 
 
 if '__main__' in __name__:
-    # Ach und übrigens, das challenge 3 password: zimmer.CEO 
+    # Ach und übrigens, das Challenge 3 Passwort: zimmer.CEO 
     # got from https://www.howtohackmoritzonlinefast.com/js/chunk-2d215cbf.ecc2243c.js ;)
     game = hackmoritz()
     game.solve()
