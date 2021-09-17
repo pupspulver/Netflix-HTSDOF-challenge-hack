@@ -1,7 +1,8 @@
 # Netflix HTSDOF challenge Hack
 A Python hack for [howtohackmoritzonlinefast.com](https://www.howtohackmoritzonlinefast.com) Netflix challenge to score the perfect Time! (5s)
 
-INFO: The challenge is over, but the game is still online.
+~~INFO: The challenge is over, but the game is still online.~~
+<br>UPDATE September 2021: The games is offline
 
 ## About the game
 [howtohackmoritzonlinefast.com](https://www.howtohackmoritzonlinefast.com) is a JS game where the player has to complete 4 challenges:
